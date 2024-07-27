@@ -1,2 +1,4 @@
 # calculadora
-Criando uma calculadora de operações básicas
+Calculadora de operações básicas;
+
+Iniciando um novo projetinho😀
