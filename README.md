@@ -27,8 +27,7 @@ Esse projeto foi desenvolvido utilizando python.
 A calculadora possui uma interface interativa que realiza cálculos básicos.
 
 ## 🔖 Layout
-<img alt="Layout" scr="https://github.com/user-attachments/assets/c4adca39-145e-4947-b862-d05b53763664">
-
+![image](https://github.com/user-attachments/assets/1522024d-d887-437c-9987-ce5b0152a65a)
 
 
 ## :memo: Licença
